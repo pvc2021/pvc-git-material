@@ -2,3 +2,6 @@ Hello A.txt
 Ram
 Rahim
 David
+Hello
+Bye
+Welcome
