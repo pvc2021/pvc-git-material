@@ -2,3 +2,9 @@ Hi
 A
 B
 C
+<<<<<<< HEAD
+=======
+A
+Bye
+C
+>>>>>>> smita-branch
